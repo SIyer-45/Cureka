@@ -1,1 +1,1 @@
-# Cureka
+# Game of Life
